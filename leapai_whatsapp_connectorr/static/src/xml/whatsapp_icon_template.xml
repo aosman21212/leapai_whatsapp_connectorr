@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-name="leapai_whatsapp_connectorr.whatsapp_icon" owl="1">
+        <div class="o_whatsapp_icon">
+            <button class="btn btn-link o_whatsapp_button" t-on-click="onWhatsAppClick">
+                <i class="fa fa-whatsapp"></i>
+            </button>
+        </div>
+    </t>
+</templates>

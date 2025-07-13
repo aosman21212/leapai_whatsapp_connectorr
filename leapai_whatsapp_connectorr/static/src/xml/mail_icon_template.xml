@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-name="leapai_whatsapp_connectorr.mail_icon" owl="1">
+        <div class="o_mail_icon">
+            <button class="btn btn-link o_mail_button" t-on-click="onMailClick">
+                <i class="fa fa-envelope"></i>
+            </button>
+        </div>
+    </t>
+</templates>
