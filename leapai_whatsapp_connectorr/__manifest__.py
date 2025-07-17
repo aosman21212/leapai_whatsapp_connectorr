@@ -33,7 +33,7 @@
     'author': 'LeapAI',
     'company': 'LeapAI',
     'maintainer': 'LeapAI',
-    'website': 'https://leapai.ai/',
+    'website': 'https://leapai.ai',
     'depends': ['sale', 'account', 'website', 'sale_management'],
     'data': [
         'security/ir.model.access.csv',
