@@ -1,4 +1,15 @@
 # -*- coding: utf-8 -*-
+# =============================================================================
+#  LeapAI WhatsApp Connector
+# -----------------------------------------------------------------------------
+#  Location  : King Abdulaziz Branch Road, Riyadh, Saudi Arabia
+#  Email     : sales@leapai.ai
+#  Phone     : +966 53 553 3627
+#  Website   : https://leapai.ai
+#  Developer : Abdulkaraim Osman — Tech Manager | Backend Engineer | DevOps Engineer
+#              at Bab International Corp For Specialized Services
+#  LinkedIn  : https://www.linkedin.com/in/abdulkaraim-o-385b7a110/
+# =============================================================================
 #############################################################################
 #
 #    LeapAI
@@ -31,8 +42,9 @@
      share access URLs for documents through the share option available in each
      record using WhatsApp Web.""",
     'author': 'LeapAI',
+    'maintainer': 'Abdulkaraim Osman',
+    'support': 'sales@leapai.ai',
     'company': 'LeapAI',
-    'maintainer': 'LeapAI',
     'website': 'https://leapai.ai',
     'depends': ['sale', 'account', 'website', 'sale_management'],
     'data': [
